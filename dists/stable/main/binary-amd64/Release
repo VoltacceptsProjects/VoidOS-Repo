@@ -1,0 +1,5 @@
+Component: main
+Origin: VoidOS
+Label: VoidOS APT Repository
+Architecture: amd64
+Description: APT repository for the VoidOS desktop (voidwm)

@@ -1,0 +1,7 @@
+Origin: VoidOS
+Label: VoidOS APT Repository
+Codename: stable
+Architectures: amd64
+Components: main
+Description: APT repository for the VoidOS desktop (voidwm)
+SignWith: AD2CB31D9BCDAD89AB82B5ED877CB54D6A5B546B

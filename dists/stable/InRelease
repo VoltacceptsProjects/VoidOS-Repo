@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: VoidOS
+Label: VoidOS APT Repository
+Codename: stable
+Date: Tue, 18 Aug 2026 20:56:39 UTC
+Architectures: amd64
+Components: main
+Description: APT repository for the VoidOS desktop (voidwm)
+MD5Sum:
+ 521ac97a18ec87f92a133ff04db84d75 954 main/binary-amd64/Packages
+ e0949b32c4843d8d4492eaa52077dca3 638 main/binary-amd64/Packages.gz
+ 379ccfb547d118074375149fb4470eab 140 main/binary-amd64/Release
+SHA1:
+ 00486ebcdad2f616759afd9d099f9363112af2c2 954 main/binary-amd64/Packages
+ 314d02a6fafcdcf6470e66ca3e43e1b3136d8c5f 638 main/binary-amd64/Packages.gz
+ f661ce1e6965a9cf58b72332034bf6b2acbc6f8b 140 main/binary-amd64/Release
+SHA256:
+ 3cf2c3c908a05c2bf9a8dbbaf5b4a1f22952e5ae6e5d39b63eea70c432635c45 954 main/binary-amd64/Packages
+ fbf09ba59140dbe732f4ab760ad9ffa334b6892b987a2177efd3eda5e628e68a 638 main/binary-amd64/Packages.gz
+ 4247cdc7ddd8f09d7e4874f94059d9c77e5c78d38dff3c654d39d45a9d64dd08 140 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEErSyzHZvNrYmrgrXth3y1TWpbVGsFAmqExwcACgkQh3y1TWpb
+VGuPMA//azfcWnO45II3IemYH7NlgZ5/5P/3jwAcJWYFD+nyr+mt64edGUmbqXBF
+z8gPhXs5d8EckEDgcJmmkutT+Tzo4ToOUZxGwe39+1BAfOBPOkOZfw/jawfwNxn/
+vVNeti9WcmUaXQHF7lqVxFD6vitQOuIz38lvFpCTJc8Gyh9o/2I1kO5Og1Q70Dvd
+xeXcM9ynO45TAqRpCl21XB00tvq/rLuuP/+1lbwE6ifObDW+O5a0YZAWvy5zQ1gV
+6uUNWUtN4rDp/s/8MhABlv1Vc45o0nEUtb8v9cuEqIyehhLmQL/K425/5LQMESLe
+bxDBKdOOddlR3vWCTsb0sbDfnxZq0QRpWU2+MUw3RpItkyn88j34hg5Ana31myUK
+Zkbb+lOKVOgoXbdJ4HCqAE3d9AoKawSCQNCRKPnk1F8O+Wx+ZYAPCZw1TP4SO0MB
+a0OmPYOqTTSZ7Q3Bexw1NBwq0riOeo+pYGrzNTU/GZNMhTRoPgrxWf0Rn6dzCsDq
+rEV7GHkf4jr7tqDulzi9rZShqiNYIVOuq6WpBOZY9lc7/wSK8TfCG8TeTmT2uLZw
+AEArECG/fQF/lC3RBQpcjBQJBUzletQnCknZ/EwVfTyAT74y4pSq5Ok3O1UFTIrW
+K03rh/13gKrBmhp8IsmZ/6UoviescBDNqkEysOH7kXQLhhhwgi8=
+=9VcY
+-----END PGP SIGNATURE-----
