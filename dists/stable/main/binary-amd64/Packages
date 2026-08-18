@@ -1,18 +1,41 @@
 Package: voidwm
 Version: 1.0.0
 Architecture: amd64
+Maintainer: VoidOS Project <voidos@example.com>
+Installed-Size: 4604
 Depends: libx11-6, libxext6, libcairo2, libpango-1.0-0, libpangocairo-1.0-0, libglib2.0-0, x-terminal-emulator
 Recommends: picom, feh
-Installed-Size: 4604
-Maintainer: VoidOS Project <voidos@example.com>
-Homepage: https://example.github.io/voidos-apt
-Priority: optional
-Section: x11
 Filename: pool/main/v/voidwm/voidwm_1.0.0_amd64.deb
 Size: 4134704
-SHA256: c9c57a2ef5a21bdb4dbf3db0c6805955efe080849a16733c46150fee1fa1ce20
-SHA1: 63a2ad5836412fe5c6111c190630fe68083c6923
 MD5sum: 4a459ea9c49173272e89ab68ae70554c
+SHA1: 63a2ad5836412fe5c6111c190630fe68083c6923
+SHA256: c9c57a2ef5a21bdb4dbf3db0c6805955efe080849a16733c46150fee1fa1ce20
+Section: x11
+Priority: optional
+Homepage: https://example.github.io/voidos-apt
+Description: VoidOS floating X11 window manager with bar and dock
+ A small, real X11 desktop environment: a floating/reparenting window
+ manager with a top status bar, an auto-hiding bottom dock, per-window
+ titlebars with traffic-light controls, and virtual workspaces.
+ .
+ Installs a session entry so it shows up in display managers
+ (LightDM/GDM/SDDM) as "VoidOS", alongside GNOME/KDE/etc.
+
+Package: voidwm
+Version: 1.0.1
+Architecture: amd64
+Maintainer: VoidOS Project <voidos@example.com>
+Installed-Size: 4624
+Depends: libx11-6, libxext6, libcairo2, libpango-1.0-0, libpangocairo-1.0-0, libglib2.0-0, x-terminal-emulator
+Recommends: picom, feh
+Filename: pool/main/v/voidwm/voidwm_1.0.1_amd64.deb
+Size: 4135360
+MD5sum: 9b48a298e2701c54cecfc5f44ea79f15
+SHA1: 14a29ec7055a46cba6b7d91417ebe99e9091f9f3
+SHA256: 329da67c8cf69d584598cd5033867dcb5468f8ee6a468a3a6214ad71ebe77819
+Section: x11
+Priority: optional
+Homepage: https://<your-gh-username>.github.io/<your-apt-repo>
 Description: VoidOS floating X11 window manager with bar and dock
  A small, real X11 desktop environment: a floating/reparenting window
  manager with a top status bar, an auto-hiding bottom dock, per-window

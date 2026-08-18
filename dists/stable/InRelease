@@ -4,35 +4,35 @@ Hash: SHA512
 Origin: VoidOS
 Label: VoidOS APT Repository
 Codename: stable
-Date: Tue, 18 Aug 2026 20:56:39 UTC
+Date: Tue, 18 Aug 2026 22:51:02 UTC
 Architectures: amd64
 Components: main
-Description: APT repository for the VoidOS desktop (voidwm)
+Description: APT repository for VoidOS
 MD5Sum:
- 521ac97a18ec87f92a133ff04db84d75 954 main/binary-amd64/Packages
- e0949b32c4843d8d4492eaa52077dca3 638 main/binary-amd64/Packages.gz
- 379ccfb547d118074375149fb4470eab 140 main/binary-amd64/Release
+ 8a2c647290095e6004afecd5bbb78704 1924 main/binary-amd64/Packages
+ 0b3928c57a23a1ed2077559ddb661a29 796 main/binary-amd64/Packages.gz
+ 6a48f1f8d7d39a5729ffaf4a4b9a4eb6 119 main/binary-amd64/Release
 SHA1:
- 00486ebcdad2f616759afd9d099f9363112af2c2 954 main/binary-amd64/Packages
- 314d02a6fafcdcf6470e66ca3e43e1b3136d8c5f 638 main/binary-amd64/Packages.gz
- f661ce1e6965a9cf58b72332034bf6b2acbc6f8b 140 main/binary-amd64/Release
+ 53a685545224ff242612164d521cdfd9b64fe891 1924 main/binary-amd64/Packages
+ 3fbc815aa42d4c9f876f3b10745627c184edaa74 796 main/binary-amd64/Packages.gz
+ 0e0d194345c785b7c01bab9a133fbede46483198 119 main/binary-amd64/Release
 SHA256:
- 3cf2c3c908a05c2bf9a8dbbaf5b4a1f22952e5ae6e5d39b63eea70c432635c45 954 main/binary-amd64/Packages
- fbf09ba59140dbe732f4ab760ad9ffa334b6892b987a2177efd3eda5e628e68a 638 main/binary-amd64/Packages.gz
- 4247cdc7ddd8f09d7e4874f94059d9c77e5c78d38dff3c654d39d45a9d64dd08 140 main/binary-amd64/Release
+ 8306b2205b6fe35549677f32515cdba829a7417c8cd4429460d61ffcf40d0e16 1924 main/binary-amd64/Packages
+ c0f55dc17fd71fb8b75247713cb9c3ec4534c34b71aa65d287e6ca3417f8f48b 796 main/binary-amd64/Packages.gz
+ 82fdb05f4affc9fbef2f3b405ab9bf36780b8a2cd58cb0d5bdbf9a26c8412761 119 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEErSyzHZvNrYmrgrXth3y1TWpbVGsFAmqExwcACgkQh3y1TWpb
-VGuPMA//azfcWnO45II3IemYH7NlgZ5/5P/3jwAcJWYFD+nyr+mt64edGUmbqXBF
-z8gPhXs5d8EckEDgcJmmkutT+Tzo4ToOUZxGwe39+1BAfOBPOkOZfw/jawfwNxn/
-vVNeti9WcmUaXQHF7lqVxFD6vitQOuIz38lvFpCTJc8Gyh9o/2I1kO5Og1Q70Dvd
-xeXcM9ynO45TAqRpCl21XB00tvq/rLuuP/+1lbwE6ifObDW+O5a0YZAWvy5zQ1gV
-6uUNWUtN4rDp/s/8MhABlv1Vc45o0nEUtb8v9cuEqIyehhLmQL/K425/5LQMESLe
-bxDBKdOOddlR3vWCTsb0sbDfnxZq0QRpWU2+MUw3RpItkyn88j34hg5Ana31myUK
-Zkbb+lOKVOgoXbdJ4HCqAE3d9AoKawSCQNCRKPnk1F8O+Wx+ZYAPCZw1TP4SO0MB
-a0OmPYOqTTSZ7Q3Bexw1NBwq0riOeo+pYGrzNTU/GZNMhTRoPgrxWf0Rn6dzCsDq
-rEV7GHkf4jr7tqDulzi9rZShqiNYIVOuq6WpBOZY9lc7/wSK8TfCG8TeTmT2uLZw
-AEArECG/fQF/lC3RBQpcjBQJBUzletQnCknZ/EwVfTyAT74y4pSq5Ok3O1UFTIrW
-K03rh/13gKrBmhp8IsmZ/6UoviescBDNqkEysOH7kXQLhhhwgi8=
-=9VcY
+iQIzBAEBCgAdFiEErSyzHZvNrYmrgrXth3y1TWpbVGsFAmqE4eAACgkQh3y1TWpb
+VGtWfxAAmSLIamiwmmGsPtfzIZkrhjohjUhq25nB2O+VHHFHvaH0niTZ1NHdfXWB
+nvLC1LUNGTUnjAtsjise79sPyFKkPQE0DwCSq30y/nteQu+JD6P+U8mlRtF3qhtQ
+BbhQBqMj5xDznv+Ty3r8AcnhUTk1o2jCMtl2eQec6kc5NBW9rSM9Xz7PMsoUjtHp
+d0H7EoedsKOU3c3IMT5mr2EMm0syFiTY2Z+L3sL2d9I8DvhVR2wDK8iM8xRw7/Fk
+X976NojWqiP3csCycwmtxmp/HdDfnZ6HoiaoDStSspKh6JedEvZGkgfzMY5UUoct
+3TXncQqEVCWc7VewKRPlqqllrK44z/c4uO3zu9ZcMc/2GG387dA3EFmLx0/1Q8FA
+VzVvImFFR6PpwYkFI6SwCGOUQ705XTyfAaWQ16TfkVG8jl797MbHG6l4O5BvC729
+hZSTVvltaz07E+dr+CfsH3aHbUP7HnxWmuCZ4v8YHIKcjvY1yS5My6Sq/ZvtM/xu
+ju68KHGS3edrclZW3IXLgtyVlwxUT89SOtz5nDXCOjJA1eRv3OoBFpwVKIHAas0f
++g8lJzCHIasEM8Q15JlCeWBNE3m0DGSq7+/LCQEdPBvVdwXl9MCenm0fWPdb0BIj
+AYGn4oZkLex5gpL6NeSBjYSuZuO6jGnb+v+cGY668S/eG7Vz++I=
+=6tqX
 -----END PGP SIGNATURE-----

@@ -16,12 +16,12 @@
 <p>Add this repo once, then <code>voidwm</code> installs and upgrades like any other package.</p>
 
 <h2>1. Add the signing key</h2>
-<pre>curl -fsSL voidos.voltaccept.com/key.asc \
-  | sudo gpg --dearmor -o /usr/share/keyrings/key.gpg</pre>
+<pre>curl -fsSL https://VoltacceptsProjects.github.io/VoidOS-Repo/key.asc \
+  | sudo gpg --dearmor -o /usr/share/keyrings/voidos.gpg</pre>
 
 <h2>2. Add the repo</h2>
-<pre>echo "deb [signed-by=/usr/share/keyrings/key.gpg] \
-voidos.voltaccept.com stable main" \
+<pre>echo "deb [signed-by=/usr/share/keyrings/voidos.gpg] \
+https://VoltacceptsProjects.github.io/VoidOS-Repo stable main" \
   | sudo tee /etc/apt/sources.list.d/voidos.list</pre>
 
 <h2>3. Install</h2>
