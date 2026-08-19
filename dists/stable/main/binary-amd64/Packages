@@ -1,5 +1,5 @@
 Package: voiddocs
-Version: 1.0.1
+Version: 1.0.2
 Architecture: amd64
 Depends: libgtk-3-0
 Installed-Size: 92
@@ -7,15 +7,17 @@ Maintainer: VoidOS Project <voidos@example.com>
 Homepage: https://<your-gh-username>.github.io/<your-apt-repo>
 Priority: optional
 Section: gnome
-Filename: pool/main/v/voiddocs/voiddocs_1.0.1_amd64.deb
-Size: 14452
-SHA256: 545983f285529816be63885269779d92a5e295fcca26bd41ff9564052e456232
-SHA1: 98f5db4aa036759918c04cf1fcf212d164060769
-MD5sum: 5780fa1b5ff121a0baebc24c4e623d3c
+Filename: pool/main/v/voiddocs/voiddocs_1.0.2_amd64.deb
+Size: 16180
+SHA256: c8254a3493befa9ef0128ec9e4517e2611db81081d889abd6a547560f927ff62
+SHA1: 340a7f027a2a6818a281182fb23f3667c0145932
+MD5sum: 072111353971fd4fc064f9bc7a2afb2b
 Description: VoidOS markdown editor for .vdoc documents
  A small, dependency-light GTK3 markdown editor with a live
  preview pane, built for VoidOS's native .vdoc document format
- (plain markdown text under the hood).
+ (plain markdown text under the hood). Styled as a Word 2026-style
+ ribbon: quick-access strip, tabbed ribbon with captioned command
+ groups, and the document rendered as a white page on a gray canvas.
 
 Package: voidwm
 Version: 1.0.1
