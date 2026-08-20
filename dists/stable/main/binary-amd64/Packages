@@ -1,5 +1,5 @@
 Package: voiddocs
-Version: 1.0.3
+Version: 1.0.4
 Architecture: amd64
 Depends: libgtk-3-0
 Installed-Size: 88
@@ -7,11 +7,11 @@ Maintainer: VoidOS Project <voidos@example.com>
 Homepage: https://VoltacceptsProjects.github.io/VoidOS-Repo
 Priority: optional
 Section: gnome
-Filename: pool/main/v/voiddocs/voiddocs_1.0.3_amd64.deb
-Size: 16616
-SHA256: dfdc06dde41772656a3efef272a7763b8bf8e7d9029a7dac3044646bf78ba189
-SHA1: 7820629b99c0503206af92dddb94c81f4894a821
-MD5sum: f6d4f354bf67bf73fbbd6503d965e846
+Filename: pool/main/v/voiddocs/voiddocs_1.0.4_amd64.deb
+Size: 17320
+SHA256: 912ee9d711cbe8c3e0677a5fe374626fd4e0d15a959efc2edd5231a913e68d21
+SHA1: d0b852a1ac5c41bc32b23ad84ba1c1089defbbb2
+MD5sum: 6d6806104c91ba82ef2340244daff32f
 Description: VoidOS markdown editor for .vdoc documents
  A small, dependency-light GTK3 markdown editor with a live
  preview pane, built for VoidOS's native .vdoc document format
@@ -19,10 +19,10 @@ Description: VoidOS markdown editor for .vdoc documents
  ribbon: quick-access strip, tabbed ribbon with captioned command
  groups, and the document rendered as a white page on a gray canvas.
  All six ribbon tabs (File/Home/Insert/Layout/Review/View) are
- fully wired to working commands.
+ fully wired to working commands, including Insert > Image.
 
 Package: voidwm
-Version: 1.0.1
+Version: 1.0.2
 Architecture: amd64
 Depends: libx11-6, libxext6, libcairo2, libpango-1.0-0, libpangocairo-1.0-0, libglib2.0-0, x-terminal-emulator
 Recommends: picom, feh
@@ -31,11 +31,11 @@ Maintainer: VoidOS Project <voidos@example.com>
 Homepage: https://<your-gh-username>.github.io/<your-apt-repo>
 Priority: optional
 Section: x11
-Filename: pool/main/v/voidwm/voidwm_1.0.1_amd64.deb
-Size: 4135360
-SHA256: 329da67c8cf69d584598cd5033867dcb5468f8ee6a468a3a6214ad71ebe77819
-SHA1: 14a29ec7055a46cba6b7d91417ebe99e9091f9f3
-MD5sum: 9b48a298e2701c54cecfc5f44ea79f15
+Filename: pool/main/v/voidwm/voidwm_1.0.2_amd64.deb
+Size: 4135536
+SHA256: c1c7104d4d6dbf4d4d475557eacc70b79c065a523a1e22a708fa73c07deaf5a1
+SHA1: fa6fc3c4a8d2cbc22300aa08f7f9a95b73966e3e
+MD5sum: 8cea685d6bf7d699e5271390ad8d2d6b
 Description: VoidOS floating X11 window manager with bar and dock
  A small, real X11 desktop environment: a floating/reparenting window
  manager with a top status bar, an auto-hiding bottom dock, per-window
