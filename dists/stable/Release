@@ -1,19 +1,19 @@
 Origin: VoidOS
 Label: VoidOS APT Repository
 Codename: stable
-Date: Thu, 20 Aug 2026 13:01:53 UTC
+Date: Thu, 20 Aug 2026 13:31:48 UTC
 Architectures: amd64
 Components: main
 Description: APT repository for VoidOS
 MD5Sum:
- a483cefbc6462c539e3aa4445e2e22f8 1938 main/binary-amd64/Packages
- f9f30f21561ec322033778b40c9df9fc 1086 main/binary-amd64/Packages.gz
+ a2499f578976070099bc986555b3671b 1938 main/binary-amd64/Packages
+ 416b4effa5676cfbd92204b80ce57b50 1090 main/binary-amd64/Packages.gz
  379ccfb547d118074375149fb4470eab 140 main/binary-amd64/Release
 SHA1:
- 384e2a1f7c6773315b53fcfee34939b392cd0a9c 1938 main/binary-amd64/Packages
- dd3a5725a4e1cd69eea1af293bf9deb6843c3cb9 1086 main/binary-amd64/Packages.gz
+ 449d2add9d26e3347ede0f705849932dbca26ee0 1938 main/binary-amd64/Packages
+ abec68cdfa3cfc609bd11e8ee33a9f2001565eb8 1090 main/binary-amd64/Packages.gz
  f661ce1e6965a9cf58b72332034bf6b2acbc6f8b 140 main/binary-amd64/Release
 SHA256:
- 8b7c4e9d83f92a81479cba5aeafdca05bd7b6eb5805d795541f3584d38d30f97 1938 main/binary-amd64/Packages
- 3c1d7d2596e3792cd5b2385f3961764decefac8d2015632213de6178990bd2c5 1086 main/binary-amd64/Packages.gz
+ 6bd4cb047958cf78cf0e4f8c2348dc158cd72b940a2268d0668eeba30da7b7c9 1938 main/binary-amd64/Packages
+ 522bc6a244c6e6bdc1d7110668fd2c9d877fa463b33511c85e75a5461f1e104e 1090 main/binary-amd64/Packages.gz
  4247cdc7ddd8f09d7e4874f94059d9c77e5c78d38dff3c654d39d45a9d64dd08 140 main/binary-amd64/Release

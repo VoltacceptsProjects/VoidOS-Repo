@@ -22,20 +22,20 @@ Description: VoidOS markdown editor for .vdoc documents
  fully wired to working commands, including Insert > Image.
 
 Package: voidwm
-Version: 1.0.2
+Version: 1.1.0
 Architecture: amd64
-Depends: libx11-6, libxext6, libcairo2, libpango-1.0-0, libpangocairo-1.0-0, libglib2.0-0, x-terminal-emulator
-Recommends: picom, feh
+Depends: libx11-6, libxext6, libcairo2, libpango-1.0-0, libpangocairo-1.0-0, libglib2.0-0, x-terminal-emulator, feh
+Recommends: picom
 Installed-Size: 4624
 Maintainer: VoidOS Project <voidos@example.com>
 Homepage: https://<your-gh-username>.github.io/<your-apt-repo>
 Priority: optional
 Section: x11
-Filename: pool/main/v/voidwm/voidwm_1.0.2_amd64.deb
-Size: 4135536
-SHA256: c1c7104d4d6dbf4d4d475557eacc70b79c065a523a1e22a708fa73c07deaf5a1
-SHA1: fa6fc3c4a8d2cbc22300aa08f7f9a95b73966e3e
-MD5sum: 8cea685d6bf7d699e5271390ad8d2d6b
+Filename: pool/main/v/voidwm/voidwm_1.1.0_amd64.deb
+Size: 4135970
+SHA256: 6cd0041f85d5655dc90a773c6827073645bd5a846d9df0b0bd6c1a1151535838
+SHA1: 141b7d0b9aadcf0e851a1e8a33084ade0c5d55a1
+MD5sum: da193b19f93221f3ea8b04d228aff7b2
 Description: VoidOS floating X11 window manager with bar and dock
  A small, real X11 desktop environment: a floating/reparenting window
  manager with a top status bar, an auto-hiding bottom dock, per-window
